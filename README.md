@@ -93,7 +93,7 @@ A user-friendly web application has been built using Streamlit to allow users to
 
 
 ## Results
-The results section in the notebook will display the performance metrics of the trained model, including accuracy, precision, recall, and F1-score. Visualizations such as confusion matrices and sample predictions are also included to give an intuitive understanding of the model's performance.
+The results section in the notebook will display the performance metrics of the trained model, including accuracy, precision, recall, and F1-score. **The model achieved an accuracy of 98%**. Visualizations such as confusion matrices and sample predictions are also included to give an intuitive understanding of the model's performance.
 
 
 
